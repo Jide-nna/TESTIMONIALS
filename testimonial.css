@@ -63,7 +63,7 @@ body{
     padding: 20px;
     border-radius: 15px;
     color: white;
-    background-image: url(/images/bg-pattern-quotation.svg);
+    background-image: url(bg-pattern-quotation.svg);
     background-repeat: no-repeat;
     background-position: top 10px right 100px;
 }
